@@ -2,3 +2,4 @@ steps:
   - name: Test Connection
     plugin: Shell
     command: 'composer install'
+    
